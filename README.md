@@ -1,4 +1,4 @@
-# DIOGOSC
+# DIOGO DE SOUZA CORRÊA
 
 Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Universidade Estadual do Pará (UEPA). Minha busca constante por aprendisado e conhecimento me trouxeram até o bootcamp **Ri Happy - Front-end do zero #2** da DIO.
 
@@ -25,6 +25,9 @@ Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Univ
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSC03&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas Contribuições
+## Minhas Contribuições e Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=trilha-css-desafio-01&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/trilha-css-desafio-01)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=detona-ralph-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/detona-ralph-game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=PlanUp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/PlanUp)
