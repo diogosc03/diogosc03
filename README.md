@@ -14,6 +14,7 @@ Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Univ
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Ferramentas Utilizadas
 
@@ -27,7 +28,7 @@ Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Univ
 
 ## Minhas Contribuições e Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=trilha-css-desafio-01&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/trilha-css-desafio-01)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=detona-ralph-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/detona-ralph-game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=desafio-jogo-da-memoria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/desafio-jogo-da-memoria)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=PlanUp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/PlanUp)
