@@ -1,6 +1,6 @@
 # DIOGO DE SOUZA CORRÊA
 
-Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Universidade Estadual do Pará (UEPA). Minha busca constante por aprendisado e conhecimento me trouxeram até o bootcamp **Ri Happy - Front-end do zero #2** da DIO.
+Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Universidade Estadual do Pará (UEPA). Minha busca constante por conhecimento e aprendizado me trouxeram até o bootcamp **Ri Happy - Front-end do zero #2** da DIO.
 
 ## Conecte-se comigo
 
