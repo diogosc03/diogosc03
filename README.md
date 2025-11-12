@@ -34,3 +34,6 @@ Olá, me chamo Diogo Corrêa e estou cursando **Engenharia de Software** na Univ
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=PlanUp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/PlanUp)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=js-yugioh-assets&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogosc03/js-yugioh-assets)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=POKEDEX&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)](https://github.com/diogosc03/POKEDEX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=semana-frontend-mundo-invertido&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)](https://github.com/diogosc03/semana-frontend-mundo-invertido)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSC03&repo=Multiverso-SpiderMan&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)](https://github.com/diogosc03/Multiverso-SpiderMan)
+
