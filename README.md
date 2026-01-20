@@ -42,7 +42,7 @@ Quero poder aplicar os conhecimentos que estou adquirindo ao longo da minha form
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Meu Portfolio 🗄️
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://diogosc03.github.io/)
 
 ---
 *"Mesmo quando o código falha, você está construindo algo melhor."*
